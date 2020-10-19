@@ -1,4 +1,4 @@
-# DSA-Project_AutoCorrect-Word
+# Project_AutoCorrect-Word
 
 This is my 4th Semester Project for the Course Data Structures and Algorithms. 
 
